@@ -20,15 +20,15 @@ O arquivo **concursos.txt** contém as informações dos concursos públicos:
 | SEJUS | 15/2017  |  61828450843  |  [carpinteiro,professor de matemática,assistente administrativo] |
 | SEJUS | 17/2017 |  95655123539  |  [professor de matemática] |
 
-**Escolha as tecnologias que você vai usar e tente montar uma solução completa para rodar a aplicação**.
+**Escolha as tecnologias que você usar e monte uma solução completa para rodar a aplicação**.
 
-Para enviar o resultado, basta realiazar um **Fork** deste repositório e **abra um Pull Request**, **com seu nome e o número de inscrição**.  
+Para enviar o resultado, basta realizar um **Fork** deste repositório e **abrir um Pull Request** **com seu nome e o número de inscrição**.  
 
-**É importante comentar que deve ser enviado apenas o código fonte. Não aceitaremos códigos compilados**.
+**Atenção: você deve enviar apenas o código fonte. Não serão aceitos códigos compilados**.
 
-Por fim, o candidato deve atualizar o Readme.md com as seguintes informações: 
+Por fim, você deve atualizar o Readme.md com as seguintes informações: 
 1. Documentação da solução;
-2. Lista dos diferenciais implementados
+2. Lista dos diferenciais implementados. 
 
 
 ## Avaliação
@@ -38,21 +38,21 @@ O programa será avaliado levando em conta os seguintes critérios:
 | Critério  | Valor | 
 |---|---|
 | Legibilidade do Código |  10  |
-| Documentação do código|  10  |
-| Documentação da solução|  10  |
-| Tratamento de Erros| 10| 
-| Total| 40|
+| Documentação do código |  10  |
+| Documentação da solução |  10  |
+| Tratamento de Erros | 10 | 
+| Total | 40 |
 
-A pontuação do candidato será a soma dos valores obtidos nos critérios acima.
+A sua pontuação será a soma dos valores obtidos nos critérios acima.
 
 ## Diferenciais 
 
-O candidato pode aumentar a sua pontuação na seleção implementando um ou mais dos itens abaixo:
+Você pode aumentar a sua pontuação no processo de seleção implementando um ou mais dos itens abaixo:
 
 | Item  | Pontos Ganhos | 
 |---|---|
 | Criar um [serviço](https://martinfowler.com/articles/microservices.html) com o problema |  30  |
-| Utilizar banco de dados| 30|
+| Utilizar banco de dados |  30  |
 | Implementar Clean Code |  20  |
 | Implementar o padrão de programação da tecnologia escolhida |  20  |
 | Qualidade de [Código com SonarQube](https://about.sonarcloud.io/) |  15  |
@@ -60,15 +60,15 @@ O candidato pode aumentar a sua pontuação na seleção implementando um ou mai
 | Implementar testes comportamentais |  15  |
 | Implementar integração com [Github Action](https://github.com/features/actions)  |  10  |
 | Implementar integração com Github Action + SonarQube |  10  |
-| Implementar usando Docker| 5|
-| Total| 170|
+| Implementar usando Docker | 5 |
+| Total| 170 |
 
-A nota final do candidato será acrescido dos pontos referente ao item implementado corretamente.
+Na sua nota final serâo acrescidos os pontos referentes aos itens implementados corretamente.
 
 ## Penalizações
 
-O candidato será desclassifiado nas seguintes situações:
+Você será desclassifiado nas seguintes situações:
 
-1. Submeter um solução que não funcione; 
-2. Não cumprir os critérios presentes no seção **Avaliação**
-3. Plágio
+1. Se submeter um solução que não funcione; 
+2. Se não cumprir os critérios presentes no seção **Avaliação**;
+3. Se cometer plágio.
