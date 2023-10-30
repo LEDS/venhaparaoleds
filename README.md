@@ -20,7 +20,7 @@ O arquivo **concursos.txt** contém as informações dos concursos públicos:
 | SEJUS | 15/2017  |  61828450843  |  [carpinteiro,professor de matemática,assistente administrativo] |
 | SEJUS | 17/2017 |  95655123539  |  [professor de matemática] |
 
-**Escolha as tecnologias que você usar e monte uma solução completa para rodar a aplicação**.
+**Escolha as tecnologias que você usará e monte uma solução completa para rodar a aplicação**.
 
 Para enviar o resultado, basta realizar um **Fork** deste repositório e **abrir um Pull Request** **com seu nome e o número de inscrição**.  
 
