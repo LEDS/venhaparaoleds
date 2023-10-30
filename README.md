@@ -1,7 +1,7 @@
-# Teste para o LEDS
+# Teste de admissão para o LEDS
 
 O desafio é desenvolver um programa que permita realizar as seguintes buscas: 
-1. Listar os **órgãos, códigos e editais dos concursos públicos** que encaixam no perfil do candidato tomando como base o **CPF** do candidato ; 
+1. Listar os **órgãos, códigos e editais dos concursos públicos** que se encaixam no perfil do candidato, tomando como base o seu **CPF**; 
 2. Listar o **nome, data de nascimento e o CPF** dos candidatos que se encaixam no perfil do concurso tomando com base o **Código do Concurso** do concurso público;
 
 O arquivo **candidatos.txt** contém as informações dos candidatos:
@@ -14,7 +14,7 @@ O arquivo **candidatos.txt** contém as informações dos candidatos:
 
 O arquivo **concursos.txt** contém as informações dos concursos públicos:
 
-| Órgão  | Edital  | Código do Concurso |  Lista de vagas|
+| Órgão  | Edital  | Código do Concurso | Lista de vagas|
 |---|---|---|---|
 | SEDU  | 9/2016  |  61828450843  |  [analista de sistemas, marceneiro]  | 
 | SEJUS | 15/2017  |  61828450843  |  [carpinteiro,professor de matemática,assistente administrativo] |
